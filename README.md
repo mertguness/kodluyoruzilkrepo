@@ -6,6 +6,7 @@ Bu repo [Kodluyoruz](https://kodluyoruz.org) Front-End Eğitiminde oluşturduğu
 ````
 https://github.com/mertguness/kodluyoruzilkrepo.git
 ````
+![Logo](images\logo.png)
 
 ## Usage 
 Projeyi clonladıktan sonra Visual Studio Code programında açınız.
